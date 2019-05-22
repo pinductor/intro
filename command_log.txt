@@ -1,0 +1,80 @@
+pwd
+   48  ls -a
+   49  git version
+   50  git version
+   51  git config --global user.name "pinductor"
+   52  git config --global user.email pinductor.world@gmail.com
+   53  pwd
+   54  ls
+   55  cd Desktop/
+   56  ls
+   57  cd intro_git/
+   58  ls
+   59  git init
+   60  ls -a
+   61  ls -a .git/
+   62  pwd
+   63  ls
+   64  git add first.txt
+   65  git commit
+   66  git remote add origin https://github.com/pinductor/intro.git
+   67  git push -u origin master
+   68  git push -u origin master
+   69  git push -u origin master
+   70  pwd
+   71  ls
+   72  git status
+   73  git status
+   74  git add .
+   75  git status
+   76  git commit -v
+   77  git log
+   78  git add second.txt
+   79  git commit -v
+   80  rm second.txt
+   81  ls
+   82  git rm second.txt
+   83  git commit -v
+   84  git add .
+   85  git commit -v
+   86  git log
+   87  git status
+   88  git status
+   89  git add .
+   90  git status
+   91  git commit -v
+   92  git status
+   93  git log
+   94  git log --oneline
+   95  git log -p
+   96  git log --oneline
+   97  git log -n 3
+   98  git log --oneline -n 3
+   99  git log -p first.txt
+  100  pwd
+  101  git diff
+  102  git diff
+  103  git add .
+  104  git diff
+  105  git diff HEAD
+  106  git commit -v
+  107  git diff
+  108  git diff HEAD
+  109  git remote add origin https://github.com/pinductor/intro
+  110  git push origin master
+  111  pwd
+  112  ls -a
+  113  git rm third.txt
+  114  ls -a
+  115  git status
+  116  git reset HEAD third.txt
+  117  git status
+  118  git checkout third.txt
+  119  ls
+  120  git status
+  121  git rm --cached third.txt
+  122  git status
+  123  git reset HEAD third.txt
+  124  git status
+  125  ls
+  126  history

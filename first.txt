@@ -4,3 +4,4 @@ gitgitgit
 githow
 gitwhat
 merge
+confrict

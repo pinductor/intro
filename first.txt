@@ -2,4 +2,6 @@ ex_Git
 apple
 gitgitgit
 githow
-gitwhat
+gitwha
+
+konnt

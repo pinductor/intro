@@ -4,3 +4,7 @@ gitgitgit
 githow
 gitwhat
 merge
+gitwha
+konnt
+pull
+flow

@@ -6,3 +6,4 @@ gitwhat
 merge
 gitwha
 konnt
+pull
